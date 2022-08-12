@@ -2,21 +2,23 @@
 
 An app to plan trips, using Flutter and Firebase as a database.
 
-## Home Page screen
+## Home || Create Trip pages
 
 ![Screenshots](./screenshots/home_page.png)
 
 
-## Create Task screen
+## All trips || Details trip
 
-![Screenshots](./screenshots/create_task.png)
+![Screenshots](./screenshots/all_trips.png) ![Screenshots](./screenshots/all_trips_with_chekin.png)
+
 
 ## Packages usage
 
-* Hive
-* Hive_flutter
-* Path_provider
-* Date_format
+* flutter_datetime_picker: ^1.5.1
+* intl: ^0.17.0
+* http: ^0.13.3
+* provider: ^6.0.3
+* mask_text_input_formatter: ^2.0.0
 
 Add this packages in your Flutter file pubspec.yaml and run 
 
@@ -24,10 +26,5 @@ Add this packages in your Flutter file pubspec.yaml and run
 flutter pub get
 
 ```
-
-## Base Application
-
-This application is based a Youtube tutorial
-
-Link: https://youtu.be/Tv3E29870ak
+This app uses Firebase as database. Create your database and replace the URLS in the files in the folder 'database'.
 
