@@ -5,6 +5,7 @@ An app to plan trips, using Flutter and Firebase as a database.
 ## Home || Create Trip pages
 
 ![Screenshots](./screenshots/home_page.png)
+![Screenshots](./screenshots/create_trip.png)
 
 
 ## All trips || Details trip
