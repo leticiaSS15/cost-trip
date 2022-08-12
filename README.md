@@ -4,8 +4,9 @@ An app to plan trips, using Flutter and Firebase as a database.
 
 ## Home || Create Trip pages
 
-![Screenshots](./screenshots/home_page.png) | ![Screenshots](./screenshots/create_trip.png)
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Screenshots](./screenshots/home_page.png)  |  ![Screenshots](./screenshots/creat_trip.png)
 
 ## All trips || Details trip
 
