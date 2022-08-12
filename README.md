@@ -4,13 +4,12 @@ An app to plan trips, using Flutter and Firebase as a database.
 
 ## Home || Create Trip pages
 
-![Screenshots](./screenshots/home_page.png)
-![Screenshots](./screenshots/create_trip.png)
+![Screenshots](./screenshots/home_page.png) | ![Screenshots](./screenshots/create_trip.png)
 
 
 ## All trips || Details trip
 
-![Screenshots](./screenshots/all_trips.png) ![Screenshots](./screenshots/all_trips_with_chekin.png)
+![Screenshots](./screenshots/all_trips.png) | ![Screenshots](./screenshots/all_trips_with_chekin.png)
 
 
 ## Packages usage
